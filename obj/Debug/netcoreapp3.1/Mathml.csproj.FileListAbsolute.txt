@@ -1,0 +1,13 @@
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.exe
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.deps.json
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.runtimeconfig.json
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.runtimeconfig.dev.json
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.dll
+C:\Users\gibbi\source\repos\Mathml\Mathml\bin\Debug\netcoreapp3.1\Mathml.pdb
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.csprojAssemblyReference.cache
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.AssemblyInfoInputs.cache
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.AssemblyInfo.cs
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.csproj.CoreCompileInputs.cache
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.dll
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.pdb
+C:\Users\gibbi\source\repos\Mathml\Mathml\obj\Debug\netcoreapp3.1\Mathml.genruntimeconfig.cache
